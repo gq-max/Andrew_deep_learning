@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../:\文件仓库\吴恩达深度学习作业\Andrew_deep_learning\01.Neural-Networks-and-Deep-Learning\week1\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
